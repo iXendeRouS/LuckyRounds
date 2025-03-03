@@ -1,0 +1,2786 @@
+[
+    {
+        "score": 50300,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 110
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            },
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bad x1 (R9999) [110-162], [164-199], [201-262], [264-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Bad x1 (R9999) [110-162], [164-199], [201-262], [264-9999]",
+        "end": 30
+    },
+    {
+        "score": 15444,
+        "bounds": [
+            {
+                "upperBounds": 163,
+                "lowerBounds": 163
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_CeramicRegrowFortified x104 (R120) [111-120], [163-163]",
+        "bloon": "CeramicRegrowFortified",
+        "count": 104,
+        "group_name": "BloonGroupModel_CeramicRegrowFortified x104 (R120) [111-120], [163-163]",
+        "end": 180
+    },
+    {
+        "score": 16848,
+        "bounds": [
+            {
+                "upperBounds": 163,
+                "lowerBounds": 163
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+        "bloon": "CeramicRegrowFortifiedCamo",
+        "count": 104,
+        "group_name": "BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+        "end": 300
+    },
+    {
+        "score": 30888,
+        "bounds": [
+            {
+                "upperBounds": 163,
+                "lowerBounds": 163
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_CeramicFortifiedCamo x208 (R120) [111-120], [163-163]",
+        "bloon": "CeramicFortifiedCamo",
+        "count": 208,
+        "group_name": "BloonGroupModel_CeramicFortifiedCamo x208 (R120) [111-120], [163-163]",
+        "end": 239
+    },
+    {
+        "score": 50300,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 121
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            },
+            {
+                "upperBounds": 225,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 262,
+                "lowerBounds": 251
+            },
+            {
+                "upperBounds": 350,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bad x1 (R9999) [121-162], [164-199], [201-225], [251-262], [264-350]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Bad x1 (R9999) [121-162], [164-199], [201-225], [251-262], [264-350]",
+        "end": 150
+    },
+    {
+        "score": 50300,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 131
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            },
+            {
+                "upperBounds": 225,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 262,
+                "lowerBounds": 251
+            },
+            {
+                "upperBounds": 350,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bad x1 (R9999) [131-162], [164-199], [201-225], [251-262], [264-350]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Bad x1 (R9999) [131-162], [164-199], [201-225], [251-262], [264-350]",
+        "end": 150
+    },
+    {
+        "score": 138880,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_ZomgFortified x7 [141-150]",
+        "bloon": "ZomgFortified",
+        "count": 7,
+        "group_name": "BloonGroupModel_ZomgFortified x7 [141-150]",
+        "end": 720
+    },
+    {
+        "score": 50300,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 141
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            },
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bad x1 (R9999) [141-162], [164-199], [201-262], [264-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Bad x1 (R9999) [141-162], [164-199], [201-262], [264-9999]",
+        "end": 300
+    },
+    {
+        "score": 10780,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_MoabFortified x11 [141-150]",
+        "bloon": "MoabFortified",
+        "count": 11,
+        "group_name": "BloonGroupModel_MoabFortified x11 [141-150]",
+        "end": 60
+    },
+    {
+        "score": 27720,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_MoabFortified x22 [141-150]",
+        "bloon": "MoabFortified",
+        "count": 22,
+        "group_name": "BloonGroupModel_MoabFortified x22 [141-150]",
+        "end": 60
+    },
+    {
+        "score": 10648,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_DdtFortified x8 [141-150]",
+        "bloon": "DdtFortifiedCamo",
+        "count": 8,
+        "group_name": "BloonGroupModel_DdtFortified x8 [141-150]",
+        "end": 150
+    },
+    {
+        "score": 147264,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Zomg x13 [141-150]",
+        "bloon": "Zomg",
+        "count": 13,
+        "group_name": "BloonGroupModel_Zomg x13 [141-150]",
+        "end": 960
+    },
+    {
+        "score": 30734,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bfb x11 [141-150]",
+        "bloon": "Bfb",
+        "count": 11,
+        "group_name": "BloonGroupModel_Bfb x11 [141-150]",
+        "end": 180
+    },
+    {
+        "score": 4791.6,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Ddt x6 [141-150]",
+        "bloon": "DdtCamo",
+        "count": 6,
+        "group_name": "BloonGroupModel_Ddt x6 [141-150]",
+        "end": 150
+    },
+    {
+        "score": 254880,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Zomg x18 [141-150]",
+        "bloon": "Zomg",
+        "count": 18,
+        "group_name": "BloonGroupModel_Zomg x18 [141-150]",
+        "end": 960
+    },
+    {
+        "score": 41580,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BfbFortified x9 [141-150]",
+        "bloon": "BfbFortified",
+        "count": 9,
+        "group_name": "BloonGroupModel_BfbFortified x9 [141-150]",
+        "end": 120
+    },
+    {
+        "score": 14374.8,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Ddt x18 [141-150]",
+        "bloon": "DdtCamo",
+        "count": 18,
+        "group_name": "BloonGroupModel_Ddt x18 [141-150]",
+        "end": 240
+    },
+    {
+        "score": 16560,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Moab x20 [141-150]",
+        "bloon": "Moab",
+        "count": 20,
+        "group_name": "BloonGroupModel_Moab x20 [141-150]",
+        "end": 60
+    },
+    {
+        "score": 15240,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bfb x6 [141-150]",
+        "bloon": "Bfb",
+        "count": 6,
+        "group_name": "BloonGroupModel_Bfb x6 [141-150]",
+        "end": 270
+    },
+    {
+        "score": 25480,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_MoabFortified x26 [141-150]",
+        "bloon": "MoabFortified",
+        "count": 26,
+        "group_name": "BloonGroupModel_MoabFortified x26 [141-150]",
+        "end": 150
+    },
+    {
+        "score": 60060,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BfbFortified x13 [141-150]",
+        "bloon": "BfbFortified",
+        "count": 13,
+        "group_name": "BloonGroupModel_BfbFortified x13 [141-150]",
+        "end": 210
+    },
+    {
+        "score": 75438,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bfb x27 [141-150]",
+        "bloon": "Bfb",
+        "count": 27,
+        "group_name": "BloonGroupModel_Bfb x27 [141-150]",
+        "end": 449
+    },
+    {
+        "score": 15972,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_DdtFortified x12 [141-150]",
+        "bloon": "DdtFortifiedCamo",
+        "count": 12,
+        "group_name": "BloonGroupModel_DdtFortified x12 [141-150]",
+        "end": 210
+    },
+    {
+        "score": 218240,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_ZomgFortified x11 [141-150]",
+        "bloon": "ZomgFortified",
+        "count": 11,
+        "group_name": "BloonGroupModel_ZomgFortified x11 [141-150]",
+        "end": 1260
+    },
+    {
+        "score": 79296,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Zomg x7 [141-150]",
+        "bloon": "Zomg",
+        "count": 7,
+        "group_name": "BloonGroupModel_Zomg x7 [141-150]",
+        "end": 420
+    },
+    {
+        "score": 30912,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Moab x48 [141-150]",
+        "bloon": "Moab",
+        "count": 48,
+        "group_name": "BloonGroupModel_Moab x48 [141-150]",
+        "end": 240
+    },
+    {
+        "score": 5324,
+        "bounds": [
+            {
+                "upperBounds": 150,
+                "lowerBounds": 141
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_DdtFortified x4 [141-150]",
+        "bloon": "DdtFortifiedCamo",
+        "count": 4,
+        "group_name": "BloonGroupModel_DdtFortified x4 [141-150]",
+        "end": 90
+    },
+    {
+        "score": 39744,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Moab x48 [151-160]",
+        "bloon": "Moab",
+        "count": 48,
+        "group_name": "BloonGroupModel_Moab x48 [151-160]",
+        "end": 180
+    },
+    {
+        "score": 81026,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bfb x29 [151-160]",
+        "bloon": "Bfb",
+        "count": 29,
+        "group_name": "BloonGroupModel_Bfb x29 [151-160]",
+        "end": 420
+    },
+    {
+        "score": 138880,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_ZomgFortified x7 [151-160]",
+        "bloon": "ZomgFortified",
+        "count": 7,
+        "group_name": "BloonGroupModel_ZomgFortified x7 [151-160]",
+        "end": 630
+    },
+    {
+        "score": 27440,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_MoabFortified x28 [151-160]",
+        "bloon": "MoabFortified",
+        "count": 28,
+        "group_name": "BloonGroupModel_MoabFortified x28 [151-160]",
+        "end": 150
+    },
+    {
+        "score": 46200,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BfbFortified x10 [151-160]",
+        "bloon": "BfbFortified",
+        "count": 10,
+        "group_name": "BloonGroupModel_BfbFortified x10 [151-160]",
+        "end": 120
+    },
+    {
+        "score": 99120,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Zomg x7 [151-160]",
+        "bloon": "Zomg",
+        "count": 7,
+        "group_name": "BloonGroupModel_Zomg x7 [151-160]",
+        "end": 360
+    },
+    {
+        "score": 4791.6,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Ddt x6 [151-160]",
+        "bloon": "DdtCamo",
+        "count": 6,
+        "group_name": "BloonGroupModel_Ddt x6 [151-160]",
+        "end": 120
+    },
+    {
+        "score": 283200,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Zomg x20 [151-160]",
+        "bloon": "Zomg",
+        "count": 20,
+        "group_name": "BloonGroupModel_Zomg x20 [151-160]",
+        "end": 960
+    },
+    {
+        "score": 50300,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 151
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            },
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bad x1 (R9999) [151-162], [164-199], [201-262]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Bad x1 (R9999) [151-162], [164-199], [201-262]",
+        "end": 300
+    },
+    {
+        "score": 238080,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_ZomgFortified x12 [151-160]",
+        "bloon": "ZomgFortified",
+        "count": 12,
+        "group_name": "BloonGroupModel_ZomgFortified x12 [151-160]",
+        "end": 1260
+    },
+    {
+        "score": 18634,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_DdtFortified x14 [151-160]",
+        "bloon": "DdtFortifiedCamo",
+        "count": 14,
+        "group_name": "BloonGroupModel_DdtFortified x14 [151-160]",
+        "end": 210
+    },
+    {
+        "score": 64680,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BfbFortified x14 [151-160]",
+        "bloon": "BfbFortified",
+        "count": 14,
+        "group_name": "BloonGroupModel_BfbFortified x14 [151-160]",
+        "end": 210
+    },
+    {
+        "score": 33528,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bfb x12 [151-160]",
+        "bloon": "Bfb",
+        "count": 12,
+        "group_name": "BloonGroupModel_Bfb x12 [151-160]",
+        "end": 180
+    },
+    {
+        "score": 7986,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_DdtFortified x6 [151-160]",
+        "bloon": "DdtFortifiedCamo",
+        "count": 6,
+        "group_name": "BloonGroupModel_DdtFortified x6 [151-160]",
+        "end": 90
+    },
+    {
+        "score": 20320,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bfb x8 [151-160]",
+        "bloon": "Bfb",
+        "count": 8,
+        "group_name": "BloonGroupModel_Bfb x8 [151-160]",
+        "end": 270
+    },
+    {
+        "score": 147264,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Zomg x13 [151-160]",
+        "bloon": "Zomg",
+        "count": 13,
+        "group_name": "BloonGroupModel_Zomg x13 [151-160]",
+        "end": 840
+    },
+    {
+        "score": 30240,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_MoabFortified x24 [151-160]",
+        "bloon": "MoabFortified",
+        "count": 24,
+        "group_name": "BloonGroupModel_MoabFortified x24 [151-160]",
+        "end": 60
+    },
+    {
+        "score": 14374.8,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Ddt x18 [151-160]",
+        "bloon": "DdtCamo",
+        "count": 18,
+        "group_name": "BloonGroupModel_Ddt x18 [151-160]",
+        "end": 210
+    },
+    {
+        "score": 11760,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_MoabFortified x12 [151-160]",
+        "bloon": "MoabFortified",
+        "count": 12,
+        "group_name": "BloonGroupModel_MoabFortified x12 [151-160]",
+        "end": 60
+    },
+    {
+        "score": 13310,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_DdtFortified x10 [151-160]",
+        "bloon": "DdtFortifiedCamo",
+        "count": 10,
+        "group_name": "BloonGroupModel_DdtFortified x10 [151-160]",
+        "end": 150
+    },
+    {
+        "score": 19872,
+        "bounds": [
+            {
+                "upperBounds": 160,
+                "lowerBounds": 151
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Moab x24 [151-160]",
+        "bloon": "Moab",
+        "count": 24,
+        "group_name": "BloonGroupModel_Moab x24 [151-160]",
+        "end": 60
+    },
+    {
+        "score": 7840.8,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Ddt x6 [161-162], [164-199]",
+        "bloon": "DdtCamo",
+        "count": 6,
+        "group_name": "BloonGroupModel_Ddt x6 [161-162], [164-199]",
+        "end": 0
+    },
+    {
+        "score": 27440,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_MoabFortified x28 [161-162], [164-199]",
+        "bloon": "MoabFortified",
+        "count": 28,
+        "group_name": "BloonGroupModel_MoabFortified x28 [161-162], [164-199]",
+        "end": 150
+    },
+    {
+        "score": 147264,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Zomg x13 [161-162], [164-199]",
+        "bloon": "Zomg",
+        "count": 13,
+        "group_name": "BloonGroupModel_Zomg x13 [161-162], [164-199]",
+        "end": 840
+    },
+    {
+        "score": 99120,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Zomg x7 [161-162], [164-199]",
+        "bloon": "Zomg",
+        "count": 7,
+        "group_name": "BloonGroupModel_Zomg x7 [161-162], [164-199]",
+        "end": 360
+    },
+    {
+        "score": 20320,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bfb x8 [161-162], [164-199]",
+        "bloon": "Bfb",
+        "count": 8,
+        "group_name": "BloonGroupModel_Bfb x8 [161-162], [164-199]",
+        "end": 270
+    },
+    {
+        "score": 4791.6,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Ddt x6 [161-162], [164-199]",
+        "bloon": "DdtCamo",
+        "count": 6,
+        "group_name": "BloonGroupModel_Ddt x6 [161-162], [164-199]",
+        "end": 120
+    },
+    {
+        "score": 19872,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Moab x24 [161-162], [164-199]",
+        "bloon": "Moab",
+        "count": 24,
+        "group_name": "BloonGroupModel_Moab x24 [161-162], [164-199]",
+        "end": 0
+    },
+    {
+        "score": 7986,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_DdtFortified x6 [161-162], [164-199]",
+        "bloon": "DdtFortifiedCamo",
+        "count": 6,
+        "group_name": "BloonGroupModel_DdtFortified x6 [161-162], [164-199]",
+        "end": 90
+    },
+    {
+        "score": 46200,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BfbFortified x10 [161-162], [164-199]",
+        "bloon": "BfbFortified",
+        "count": 10,
+        "group_name": "BloonGroupModel_BfbFortified x10 [161-162], [164-199]",
+        "end": 60
+    },
+    {
+        "score": 283200,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Zomg x20 [161-162], [164-199]",
+        "bloon": "Zomg",
+        "count": 20,
+        "group_name": "BloonGroupModel_Zomg x20 [161-162], [164-199]",
+        "end": 960
+    },
+    {
+        "score": 30240,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_MoabFortified x24 [161-162], [164-199]",
+        "bloon": "MoabFortified",
+        "count": 24,
+        "group_name": "BloonGroupModel_MoabFortified x24 [161-162], [164-199]",
+        "end": 60
+    },
+    {
+        "score": 81026,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bfb x29 [161-162], [164-199]",
+        "bloon": "Bfb",
+        "count": 29,
+        "group_name": "BloonGroupModel_Bfb x29 [161-162], [164-199]",
+        "end": 420
+    },
+    {
+        "score": 138880,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_ZomgFortified x7 [161-162], [164-199]",
+        "bloon": "ZomgFortified",
+        "count": 7,
+        "group_name": "BloonGroupModel_ZomgFortified x7 [161-162], [164-199]",
+        "end": 630
+    },
+    {
+        "score": 39744,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Moab x48 [161-162], [164-199]",
+        "bloon": "Moab",
+        "count": 48,
+        "group_name": "BloonGroupModel_Moab x48 [161-162], [164-199]",
+        "end": 180
+    },
+    {
+        "score": 11760,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_MoabFortified x12 [161-162], [164-199]",
+        "bloon": "MoabFortified",
+        "count": 12,
+        "group_name": "BloonGroupModel_MoabFortified x12 [161-162], [164-199]",
+        "end": 60
+    },
+    {
+        "score": 33528,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bfb x12 [161-162], [164-199]",
+        "bloon": "Bfb",
+        "count": 12,
+        "group_name": "BloonGroupModel_Bfb x12 [161-162], [164-199]",
+        "end": 180
+    },
+    {
+        "score": 64680,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BfbFortified x14 [161-162], [164-199]",
+        "bloon": "BfbFortified",
+        "count": 14,
+        "group_name": "BloonGroupModel_BfbFortified x14 [161-162], [164-199]",
+        "end": 210
+    },
+    {
+        "score": 13310,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_DdtFortified x10 [161-162], [164-199]",
+        "bloon": "DdtFortifiedCamo",
+        "count": 10,
+        "group_name": "BloonGroupModel_DdtFortified x10 [161-162], [164-199]",
+        "end": 150
+    },
+    {
+        "score": 18634,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_DdtFortified x14 [161-162], [164-199]",
+        "bloon": "DdtFortifiedCamo",
+        "count": 14,
+        "group_name": "BloonGroupModel_DdtFortified x14 [161-162], [164-199]",
+        "end": 210
+    },
+    {
+        "score": 14374.8,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Ddt x18 [161-162], [164-199]",
+        "bloon": "DdtCamo",
+        "count": 18,
+        "group_name": "BloonGroupModel_Ddt x18 [161-162], [164-199]",
+        "end": 210
+    },
+    {
+        "score": 238080,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_ZomgFortified x12 [161-162], [164-199]",
+        "bloon": "ZomgFortified",
+        "count": 12,
+        "group_name": "BloonGroupModel_ZomgFortified x12 [161-162], [164-199]",
+        "end": 1260
+    },
+    {
+        "score": 46200,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BfbFortified x10 [161-162], [164-199]",
+        "bloon": "BfbFortified",
+        "count": 10,
+        "group_name": "BloonGroupModel_BfbFortified x10 [161-162], [164-199]",
+        "end": 120
+    },
+    {
+        "score": 173600,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_ZomgFortified x7 [161-162], [164-199]",
+        "bloon": "ZomgFortified",
+        "count": 7,
+        "group_name": "BloonGroupModel_ZomgFortified x7 [161-162], [164-199]",
+        "end": 300
+    },
+    {
+        "score": 19872,
+        "bounds": [
+            {
+                "upperBounds": 162,
+                "lowerBounds": 161
+            },
+            {
+                "upperBounds": 199,
+                "lowerBounds": 164
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Moab x24 [161-162], [164-199]",
+        "bloon": "Moab",
+        "count": 24,
+        "group_name": "BloonGroupModel_Moab x24 [161-162], [164-199]",
+        "end": 60
+    },
+    {
+        "score": 2160,
+        "bounds": [
+            {
+                "upperBounds": 163,
+                "lowerBounds": 163
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_LeadRegrowFortifiedCamo x100 (R163) [163-163]",
+        "bloon": "LeadRegrowFortifiedCamo",
+        "count": 100,
+        "group_name": "BloonGroupModel_LeadRegrowFortifiedCamo x100 (R163) [163-163]",
+        "end": 300
+    },
+    {
+        "score": 1512.0,
+        "bounds": [
+            {
+                "upperBounds": 163,
+                "lowerBounds": 163
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_LeadRegrowCamo x100 (R163) [163-163]",
+        "bloon": "LeadRegrowCamo",
+        "count": 100,
+        "group_name": "BloonGroupModel_LeadRegrowCamo x100 (R163) [163-163]",
+        "end": 300
+    },
+    {
+        "score": 49450.5,
+        "bounds": [
+            {
+                "upperBounds": 163,
+                "lowerBounds": 163
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_CeramicFortifiedCamo x333 (R163) [163-163]",
+        "bloon": "CeramicFortifiedCamo",
+        "count": 333,
+        "group_name": "BloonGroupModel_CeramicFortifiedCamo x333 (R163) [163-163]",
+        "end": 120
+    },
+    {
+        "score": 72900,
+        "bounds": [
+            {
+                "upperBounds": 163,
+                "lowerBounds": 163
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_CeramicRegrowFortifiedCamo x450 (R163) [163-163]",
+        "bloon": "CeramicRegrowFortifiedCamo",
+        "count": 450,
+        "group_name": "BloonGroupModel_CeramicRegrowFortifiedCamo x450 (R163) [163-163]",
+        "end": 240
+    },
+    {
+        "score": 1980,
+        "bounds": [
+            {
+                "upperBounds": 163,
+                "lowerBounds": 163
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_LeadFortifiedCamo x100 (R163) [163-163]",
+        "bloon": "LeadFortifiedCamo",
+        "count": 100,
+        "group_name": "BloonGroupModel_LeadFortifiedCamo x100 (R163) [163-163]",
+        "end": 300
+    },
+    {
+        "score": 2160,
+        "bounds": [
+            {
+                "upperBounds": 163,
+                "lowerBounds": 163
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_LeadRegrowFortifiedCamo x100 (R163) [163-163]",
+        "bloon": "LeadRegrowFortifiedCamo",
+        "count": 100,
+        "group_name": "BloonGroupModel_LeadRegrowFortifiedCamo x100 (R163) [163-163]",
+        "end": 300
+    },
+    {
+        "score": 44955,
+        "bounds": [
+            {
+                "upperBounds": 163,
+                "lowerBounds": 163
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_CeramicFortified x333 (R163) [163-163]",
+        "bloon": "CeramicFortified",
+        "count": 333,
+        "group_name": "BloonGroupModel_CeramicFortified x333 (R163) [163-163]",
+        "end": 120
+    },
+    {
+        "score": 140400,
+        "bounds": [
+            {
+                "upperBounds": 163,
+                "lowerBounds": 163
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_CeramicRegrowCamo x1000 (R163) [163-163]",
+        "bloon": "CeramicRegrowCamo",
+        "count": 1000,
+        "group_name": "BloonGroupModel_CeramicRegrowCamo x1000 (R163) [163-163]",
+        "end": 480
+    },
+    {
+        "score": 113400,
+        "bounds": [
+            {
+                "upperBounds": 163,
+                "lowerBounds": 163
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_CeramicRegrowFortifiedCamo x700 (R163) [163-163]",
+        "bloon": "CeramicRegrowFortifiedCamo",
+        "count": 700,
+        "group_name": "BloonGroupModel_CeramicRegrowFortifiedCamo x700 (R163) [163-163]",
+        "end": 480
+    },
+    {
+        "score": 49450.5,
+        "bounds": [
+            {
+                "upperBounds": 163,
+                "lowerBounds": 163
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_CeramicRegrowFortified x333 (R163) [163-163]",
+        "bloon": "CeramicRegrowFortified",
+        "count": 333,
+        "group_name": "BloonGroupModel_CeramicRegrowFortified x333 (R163) [163-163]",
+        "end": 120
+    },
+    {
+        "score": 1980,
+        "bounds": [
+            {
+                "upperBounds": 163,
+                "lowerBounds": 163
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_LeadRegrowFortified x100 (R163) [163-163]",
+        "bloon": "LeadRegrowFortified",
+        "count": 100,
+        "group_name": "BloonGroupModel_LeadRegrowFortified x100 (R163) [163-163]",
+        "end": 300
+    },
+    {
+        "score": 25000,
+        "bounds": [
+            {
+                "upperBounds": 199,
+                "lowerBounds": 171
+            },
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bad x1 (R171+) [171-199], [201-262], [264-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Bad x1 (R171+) [171-199], [201-262], [264-9999]",
+        "end": 30
+    },
+    {
+        "score": 25000,
+        "bounds": [
+            {
+                "upperBounds": 199,
+                "lowerBounds": 191
+            },
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bad x1 (R191+) [191-199], [201-262], [264-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Bad x1 (R191+) [191-199], [201-262], [264-9999]",
+        "end": 30
+    },
+    {
+        "score": 148640,
+        "bounds": [
+            {
+                "upperBounds": 200,
+                "lowerBounds": 200
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BadFortified x2 (R200 Custom) [200-200]",
+        "bloon": "BadFortified",
+        "count": 2,
+        "group_name": "BloonGroupModel_BadFortified x2 (R200 Custom) [200-200]",
+        "end": 1200
+    },
+    {
+        "score": 30240,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_MoabFortified x24 [201-262], [264-9999]",
+        "bloon": "MoabFortified",
+        "count": 24,
+        "group_name": "BloonGroupModel_MoabFortified x24 [201-262], [264-9999]",
+        "end": 30
+    },
+    {
+        "score": 35280,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_MoabFortified x28 [201-262], [264-9999]",
+        "bloon": "MoabFortified",
+        "count": 28,
+        "group_name": "BloonGroupModel_MoabFortified x28 [201-262], [264-9999]",
+        "end": 60
+    },
+    {
+        "score": 75600,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BfbFortified x10 [201-262], [264-9999]",
+        "bloon": "BfbFortified",
+        "count": 10,
+        "group_name": "BloonGroupModel_BfbFortified x10 [201-262], [264-9999]",
+        "end": 30
+    },
+    {
+        "score": 22352,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bfb x8 [201-262], [264-9999]",
+        "bloon": "Bfb",
+        "count": 8,
+        "group_name": "BloonGroupModel_Bfb x8 [201-262], [264-9999]",
+        "end": 120
+    },
+    {
+        "score": 92900,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BadFortified x1 (R201+) [201-262], [264-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_BadFortified x1 (R201+) [201-262], [264-9999]",
+        "end": 120
+    },
+    {
+        "score": 190960,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_ZomgFortified x7 [201-262], [264-9999]",
+        "bloon": "ZomgFortified",
+        "count": 7,
+        "group_name": "BloonGroupModel_ZomgFortified x7 [201-262], [264-9999]",
+        "end": 90
+    },
+    {
+        "score": 202488,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Zomg x13 [201-262], [264-9999]",
+        "bloon": "Zomg",
+        "count": 13,
+        "group_name": "BloonGroupModel_Zomg x13 [201-262], [264-9999]",
+        "end": 210
+    },
+    {
+        "score": 109032,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Zomg x7 [201-262], [264-9999]",
+        "bloon": "Zomg",
+        "count": 7,
+        "group_name": "BloonGroupModel_Zomg x7 [201-262], [264-9999]",
+        "end": 90
+    },
+    {
+        "score": 15120,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_MoabFortified x12 [201-262], [264-9999]",
+        "bloon": "MoabFortified",
+        "count": 12,
+        "group_name": "BloonGroupModel_MoabFortified x12 [201-262], [264-9999]",
+        "end": 30
+    },
+    {
+        "score": 19872,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Moab x24 [201-262], [264-9999]",
+        "bloon": "Moab",
+        "count": 24,
+        "group_name": "BloonGroupModel_Moab x24 [201-262], [264-9999]",
+        "end": 0
+    },
+    {
+        "score": 64680,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BfbFortified x14 [201-262], [264-9999]",
+        "bloon": "BfbFortified",
+        "count": 14,
+        "group_name": "BloonGroupModel_BfbFortified x14 [201-262], [264-9999]",
+        "end": 90
+    },
+    {
+        "score": 41817.6,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Ddt x32 [201-262], [264-9999]",
+        "bloon": "DdtCamo",
+        "count": 32,
+        "group_name": "BloonGroupModel_Ddt x32 [201-262], [264-9999]",
+        "end": 120
+    },
+    {
+        "score": 103124,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bfb x29 [201-262], [264-9999]",
+        "bloon": "Bfb",
+        "count": 29,
+        "group_name": "BloonGroupModel_Bfb x29 [201-262], [264-9999]",
+        "end": 150
+    },
+    {
+        "score": 190960,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_ZomgFortified x7 [201-262], [264-9999]",
+        "bloon": "ZomgFortified",
+        "count": 7,
+        "group_name": "BloonGroupModel_ZomgFortified x7 [201-262], [264-9999]",
+        "end": 180
+    },
+    {
+        "score": 15681.6,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Ddt x12 [201-262], [264-9999]",
+        "bloon": "DdtCamo",
+        "count": 12,
+        "group_name": "BloonGroupModel_Ddt x12 [201-262], [264-9999]",
+        "end": 0
+    },
+    {
+        "score": 15681.6,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Ddt x12 [201-262], [264-9999]",
+        "bloon": "DdtCamo",
+        "count": 12,
+        "group_name": "BloonGroupModel_Ddt x12 [201-262], [264-9999]",
+        "end": 30
+    },
+    {
+        "score": 311520,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Zomg x20 [201-262], [264-9999]",
+        "bloon": "Zomg",
+        "count": 20,
+        "group_name": "BloonGroupModel_Zomg x20 [201-262], [264-9999]",
+        "end": 240
+    },
+    {
+        "score": 50000,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BadFortified x1 (R201+) [201-262], [264-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_BadFortified x1 (R201+) [201-262], [264-9999]",
+        "end": 30
+    },
+    {
+        "score": 20328,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_DdtFortified x12 [201-262], [264-9999]",
+        "bloon": "DdtFortifiedCamo",
+        "count": 12,
+        "group_name": "BloonGroupModel_DdtFortified x12 [201-262], [264-9999]",
+        "end": 60
+    },
+    {
+        "score": 19872,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Moab x24 [201-262], [264-9999]",
+        "bloon": "Moab",
+        "count": 24,
+        "group_name": "BloonGroupModel_Moab x24 [201-262], [264-9999]",
+        "end": 30
+    },
+    {
+        "score": 43560,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_DdtFortified x20 [201-262], [264-9999]",
+        "bloon": "DdtFortifiedCamo",
+        "count": 20,
+        "group_name": "BloonGroupModel_DdtFortified x20 [201-262], [264-9999]",
+        "end": 60
+    },
+    {
+        "score": 60984,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_DdtFortified x28 [201-262], [264-9999]",
+        "bloon": "DdtFortifiedCamo",
+        "count": 28,
+        "group_name": "BloonGroupModel_DdtFortified x28 [201-262], [264-9999]",
+        "end": 120
+    },
+    {
+        "score": 46200,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BfbFortified x10 [201-262], [264-9999]",
+        "bloon": "BfbFortified",
+        "count": 10,
+        "group_name": "BloonGroupModel_BfbFortified x10 [201-262], [264-9999]",
+        "end": 60
+    },
+    {
+        "score": 39744,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Moab x48 [201-262], [264-9999]",
+        "bloon": "Moab",
+        "count": 48,
+        "group_name": "BloonGroupModel_Moab x48 [201-262], [264-9999]",
+        "end": 90
+    },
+    {
+        "score": 327360,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_ZomgFortified x12 [201-262], [264-9999]",
+        "bloon": "ZomgFortified",
+        "count": 12,
+        "group_name": "BloonGroupModel_ZomgFortified x12 [201-262], [264-9999]",
+        "end": 300
+    },
+    {
+        "score": 33528,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 201
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bfb x12 [201-262], [264-9999]",
+        "bloon": "Bfb",
+        "count": 12,
+        "group_name": "BloonGroupModel_Bfb x12 [201-262], [264-9999]",
+        "end": 90
+    },
+    {
+        "score": 25000,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 211
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bad x1 (R211+) [211-262], [264-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Bad x1 (R211+) [211-262], [264-9999]",
+        "end": 30
+    },
+    {
+        "score": 50000,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 221
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BadFortified x1 (R221+) [221-262], [264-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_BadFortified x1 (R221+) [221-262], [264-9999]",
+        "end": 30
+    },
+    {
+        "score": 92900,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 221
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BadFortified x1 (R221+) [221-262], [264-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_BadFortified x1 (R221+) [221-262], [264-9999]",
+        "end": 30
+    },
+    {
+        "score": 1,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 231
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed Bad x1 (R231+) [231-262], [264-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Guaranteed Bad x1 (R231+) [231-262], [264-9999]",
+        "end": 30
+    },
+    {
+        "score": 50000,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 241
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BadFortified x1 (R241+) [241-262], [264-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_BadFortified x1 (R241+) [241-262], [264-9999]",
+        "end": 30
+    },
+    {
+        "score": 1,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 251
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed BadFortified x1 (R251+) [251-262], [264-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_Guaranteed BadFortified x1 (R251+) [251-262], [264-9999]",
+        "end": 30
+    },
+    {
+        "score": 25000,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 251
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bad x1 (R251+) [251-262], [264-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Bad x1 (R251+) [251-262], [264-9999]",
+        "end": 30
+    },
+    {
+        "score": 50000,
+        "bounds": [
+            {
+                "upperBounds": 262,
+                "lowerBounds": 261
+            },
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 264
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BadFortified x1 (R261+) [261-262], [264-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_BadFortified x1 (R261+) [261-262], [264-9999]",
+        "end": 30
+    },
+    {
+        "score": 39930,
+        "bounds": [
+            {
+                "upperBounds": 263,
+                "lowerBounds": 263
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Ddt x30 (R263) [263-263]",
+        "bloon": "DdtFortifiedCamo",
+        "count": 30,
+        "group_name": "BloonGroupModel_Ddt x30 (R263) [263-263]",
+        "end": 300
+    },
+    {
+        "score": 29808,
+        "bounds": [
+            {
+                "upperBounds": 263,
+                "lowerBounds": 263
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Moab x36 (R263) [263-263]",
+        "bloon": "Moab",
+        "count": 36,
+        "group_name": "BloonGroupModel_Moab x36 (R263) [263-263]",
+        "end": 0
+    },
+    {
+        "score": 29808,
+        "bounds": [
+            {
+                "upperBounds": 263,
+                "lowerBounds": 263
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Moab x36 (R263) [263-263]",
+        "bloon": "Moab",
+        "count": 36,
+        "group_name": "BloonGroupModel_Moab x36 (R263) [263-263]",
+        "end": 0
+    },
+    {
+        "score": 39930,
+        "bounds": [
+            {
+                "upperBounds": 263,
+                "lowerBounds": 263
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Ddt x30 (R263) [263-263]",
+        "bloon": "DdtFortifiedCamo",
+        "count": 30,
+        "group_name": "BloonGroupModel_Ddt x30 (R263) [263-263]",
+        "end": 300
+    },
+    {
+        "score": 12100,
+        "bounds": [
+            {
+                "upperBounds": 263,
+                "lowerBounds": 263
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_DdtFortified x10 (R263) [263-263]",
+        "bloon": "DdtFortifiedCamo",
+        "count": 10,
+        "group_name": "BloonGroupModel_DdtFortified x10 (R263) [263-263]",
+        "end": 300
+    },
+    {
+        "score": 45360,
+        "bounds": [
+            {
+                "upperBounds": 263,
+                "lowerBounds": 263
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_MoabFortified x36 (R263) [263-263]",
+        "bloon": "MoabFortified",
+        "count": 36,
+        "group_name": "BloonGroupModel_MoabFortified x36 (R263) [263-263]",
+        "end": 0
+    },
+    {
+        "score": 12100,
+        "bounds": [
+            {
+                "upperBounds": 263,
+                "lowerBounds": 263
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_DdtFortified x10 (R263) [263-263]",
+        "bloon": "DdtFortifiedCamo",
+        "count": 10,
+        "group_name": "BloonGroupModel_DdtFortified x10 (R263) [263-263]",
+        "end": 300
+    },
+    {
+        "score": 55440,
+        "bounds": [
+            {
+                "upperBounds": 263,
+                "lowerBounds": 263
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_MoabFortified x44 (R263) [263-263]",
+        "bloon": "MoabFortified",
+        "count": 44,
+        "group_name": "BloonGroupModel_MoabFortified x44 (R263) [263-263]",
+        "end": 29
+    },
+    {
+        "score": 90720,
+        "bounds": [
+            {
+                "upperBounds": 263,
+                "lowerBounds": 263
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_MoabFortified x72 (R263) [263-263]",
+        "bloon": "MoabFortified",
+        "count": 72,
+        "group_name": "BloonGroupModel_MoabFortified x72 (R263) [263-263]",
+        "end": 60
+    },
+    {
+        "score": 119232,
+        "bounds": [
+            {
+                "upperBounds": 263,
+                "lowerBounds": 263
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Moab x144 (R263) [263-263]",
+        "bloon": "Moab",
+        "count": 144,
+        "group_name": "BloonGroupModel_Moab x144 (R263) [263-263]",
+        "end": 60
+    },
+    {
+        "score": 39930,
+        "bounds": [
+            {
+                "upperBounds": 263,
+                "lowerBounds": 263
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Ddt x30 (R263) [263-263]",
+        "bloon": "DdtFortifiedCamo",
+        "count": 30,
+        "group_name": "BloonGroupModel_Ddt x30 (R263) [263-263]",
+        "end": 300
+    },
+    {
+        "score": 25000,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 271
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bad x1 (R271+) [271-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Bad x1 (R271+) [271-9999]",
+        "end": 30
+    },
+    {
+        "score": 80480,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 276
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bad x2 (R276+) [276-9999]",
+        "bloon": "Bad",
+        "count": 2,
+        "group_name": "BloonGroupModel_Bad x2 (R276+) [276-9999]",
+        "end": 300
+    },
+    {
+        "score": 50000,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 281
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BadFortified x1 (R281+) [281-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_BadFortified x1 (R281+) [281-9999]",
+        "end": 30
+    },
+    {
+        "score": 25000,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 291
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bad x1 (R291+) [291-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Bad x1 (R291+) [291-9999]",
+        "end": 30
+    },
+    {
+        "score": 80480,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 301
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bad x2 (R301+) [301-9999]",
+        "bloon": "Bad",
+        "count": 2,
+        "group_name": "BloonGroupModel_Bad x2 (R301+) [301-9999]",
+        "end": 150
+    },
+    {
+        "score": 50000,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 301
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BadFortified x1 (R301+) [301-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_BadFortified x1 (R301+) [301-9999]",
+        "end": 30
+    },
+    {
+        "score": 1,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 311
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed Bad x1 (R311+) [311-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Guaranteed Bad x1 (R311+) [311-9999]",
+        "end": 30
+    },
+    {
+        "score": 1,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 321
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed BadFortified x1 (R321+) [321-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_Guaranteed BadFortified x1 (R321+) [321-9999]",
+        "end": 30
+    },
+    {
+        "score": 25000,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 331
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bad x1 (R331+) [331-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Bad x1 (R331+) [331-9999]",
+        "end": 30
+    },
+    {
+        "score": 50000,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 341
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BadFortified x1 (R341+) [341-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_BadFortified x1 (R341+) [341-9999]",
+        "end": 30
+    },
+    {
+        "score": 25000,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 351
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bad x1 (R351+) [351-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Bad x1 (R351+) [351-9999]",
+        "end": 30
+    },
+    {
+        "score": 50000,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 361
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BadFortified x1 (R361+) [361-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_BadFortified x1 (R361+) [361-9999]",
+        "end": 30
+    },
+    {
+        "score": 25000,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 371
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bad x1 (R371+) [371-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Bad x1 (R371+) [371-9999]",
+        "end": 30
+    },
+    {
+        "score": 50000,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 381
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BadFortified x1 (R381+) [381-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_BadFortified x1 (R381+) [381-9999]",
+        "end": 30
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 391
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed Bad x1 (R391+) [391-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Guaranteed Bad x1 (R391+) [391-9999]",
+        "end": 30
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 401
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed BadFortified x1 (R401+) [401-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_Guaranteed BadFortified x1 (R401+) [401-9999]",
+        "end": 30
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 411
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed BadFortified x1 (R9999) [411-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_Guaranteed BadFortified x1 (R9999) [411-9999]",
+        "end": 30
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 411
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed Bad x1 (R411+) [411-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Guaranteed Bad x1 (R411+) [411-9999]",
+        "end": 30
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 421
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed Bad x1 (R9999) [421-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Guaranteed Bad x1 (R9999) [421-9999]",
+        "end": 30
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 421
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed BadFortified x1 (R9999) [421-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_Guaranteed BadFortified x1 (R9999) [421-9999]",
+        "end": 30
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 431
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed Bad x1 (R9999) [431-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Guaranteed Bad x1 (R9999) [431-9999]",
+        "end": 30
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 431
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed BadFortified x1 (R9999) [431-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_Guaranteed BadFortified x1 (R9999) [431-9999]",
+        "end": 30
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 441
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed Bad x1 (R9999) [441-9999]",
+        "bloon": "Bad",
+        "count": 1,
+        "group_name": "BloonGroupModel_Guaranteed Bad x1 (R9999) [441-9999]",
+        "end": 30
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 441
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed BadFortified x1 (R9999) [441-9999]",
+        "bloon": "BadFortified",
+        "count": 1,
+        "group_name": "BloonGroupModel_Guaranteed BadFortified x1 (R9999) [441-9999]",
+        "end": 30
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 451
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed Bad x2 (R9999) [451-9999]",
+        "bloon": "Bad",
+        "count": 2,
+        "group_name": "BloonGroupModel_Guaranteed Bad x2 (R9999) [451-9999]",
+        "end": 60
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 451
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed BadFortified x2 (R9999) [451-9999]",
+        "bloon": "BadFortified",
+        "count": 2,
+        "group_name": "BloonGroupModel_Guaranteed BadFortified x2 (R9999) [451-9999]",
+        "end": 60
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 461
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed BadFortified x2 (R9999) [461-9999]",
+        "bloon": "BadFortified",
+        "count": 2,
+        "group_name": "BloonGroupModel_Guaranteed BadFortified x2 (R9999) [461-9999]",
+        "end": 60
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 461
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed Bad x2 (R9999) [461-9999]",
+        "bloon": "Bad",
+        "count": 2,
+        "group_name": "BloonGroupModel_Guaranteed Bad x2 (R9999) [461-9999]",
+        "end": 60
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 471
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed BadFortified x2 (R9999) [471-9999]",
+        "bloon": "BadFortified",
+        "count": 2,
+        "group_name": "BloonGroupModel_Guaranteed BadFortified x2 (R9999) [471-9999]",
+        "end": 60
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 471
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed Bad x2 (R9999) [471-9999]",
+        "bloon": "Bad",
+        "count": 2,
+        "group_name": "BloonGroupModel_Guaranteed Bad x2 (R9999) [471-9999]",
+        "end": 60
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 481
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed BadFortified x3 (R9999) [481-9999]",
+        "bloon": "BadFortified",
+        "count": 3,
+        "group_name": "BloonGroupModel_Guaranteed BadFortified x3 (R9999) [481-9999]",
+        "end": 120
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 481
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed Bad x3 (R9999) [481-9999]",
+        "bloon": "Bad",
+        "count": 2,
+        "group_name": "BloonGroupModel_Guaranteed Bad x3 (R9999) [481-9999]",
+        "end": 120
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 491
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed BadFortified x3 (R9999) [491-9999]",
+        "bloon": "BadFortified",
+        "count": 3,
+        "group_name": "BloonGroupModel_Guaranteed BadFortified x3 (R9999) [491-9999]",
+        "end": 60
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 491
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed Bad x3 (R9999) [491-9999]",
+        "bloon": "Bad",
+        "count": 3,
+        "group_name": "BloonGroupModel_Guaranteed Bad x3 (R9999) [491-9999]",
+        "end": 60
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 501
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed BadFortified x3 (R9999) [501-9999]",
+        "bloon": "BadFortified",
+        "count": 3,
+        "group_name": "BloonGroupModel_Guaranteed BadFortified x3 (R9999) [501-9999]",
+        "end": 90
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 501
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed Bad x3 (R9999) [501-9999]",
+        "bloon": "Bad",
+        "count": 3,
+        "group_name": "BloonGroupModel_Guaranteed Bad x3 (R9999) [501-9999]",
+        "end": 90
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 511
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed BadFortified x5 (R1000) [511-9999]",
+        "bloon": "BadFortified",
+        "count": 5,
+        "group_name": "BloonGroupModel_Guaranteed BadFortified x5 (R1000) [511-9999]",
+        "end": 0
+    },
+    {
+        "score": 2,
+        "bounds": [
+            {
+                "upperBounds": 9999,
+                "lowerBounds": 511
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Guaranteed Bad x5 (R1000) [511-9999]",
+        "bloon": "Bad",
+        "count": 5,
+        "group_name": "BloonGroupModel_Guaranteed Bad x5 (R1000) [511-9999]",
+        "end": 0
+    },
+    {
+        "score": 1,
+        "bounds": [
+            {
+                "upperBounds": 10000,
+                "lowerBounds": 1987
+            },
+            {
+                "upperBounds": 10133701,
+                "lowerBounds": 10006
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BadFortified x100 (The End/Failsafe) [10000-10000], [10006-10133701]",
+        "bloon": "BadFortified",
+        "count": 100,
+        "group_name": "BloonGroupModel_BadFortified x100 (The End/Failsafe) [10000-10000], [10006-10133701]",
+        "end": 0
+    },
+    {
+        "score": 1,
+        "bounds": [
+            {
+                "upperBounds": 10000,
+                "lowerBounds": 10000
+            },
+            {
+                "upperBounds": 10133701,
+                "lowerBounds": 10006
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+        "bloon": "BadFortified",
+        "count": 100,
+        "group_name": "BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+        "end": 900
+    },
+    {
+        "score": 1,
+        "bounds": [
+            {
+                "upperBounds": 10001,
+                "lowerBounds": 10001
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_CeramicFortified (Test) [10001-10001]",
+        "bloon": "CeramicFortified",
+        "count": 9999,
+        "group_name": "BloonGroupModel_CeramicFortified (Test) [10001-10001]",
+        "end": 600
+    },
+    {
+        "score": 1,
+        "bounds": [
+            {
+                "upperBounds": 10002,
+                "lowerBounds": 10002
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Moab x100 (Test) [10002-10002]",
+        "bloon": "Moab",
+        "count": 100,
+        "group_name": "BloonGroupModel_Moab x100 (Test) [10002-10002]",
+        "end": 60
+    },
+    {
+        "score": 1,
+        "bounds": [
+            {
+                "upperBounds": 10003,
+                "lowerBounds": 10003
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Bfb x100 (Test) [10003-10003]",
+        "bloon": "Bfb",
+        "count": 100,
+        "group_name": "BloonGroupModel_Bfb x100 (Test) [10003-10003]",
+        "end": 60
+    },
+    {
+        "score": 1,
+        "bounds": [
+            {
+                "upperBounds": 10004,
+                "lowerBounds": 10004
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Zomg x100 (Test) [10004-10004]",
+        "bloon": "Zomg",
+        "count": 100,
+        "group_name": "BloonGroupModel_Zomg x100 (Test) [10004-10004]",
+        "end": 60
+    },
+    {
+        "score": 1,
+        "bounds": [
+            {
+                "upperBounds": 10005,
+                "lowerBounds": 10005
+            }
+        ],
+        "name": "FreeplayBloonGroupModel_Ddt x100 (Test) [10005-10005]",
+        "bloon": "DdtCamo",
+        "count": 100,
+        "group_name": "BloonGroupModel_Ddt x100 (Test) [10005-10005]",
+        "end": 60
+    }
+]
