@@ -1,7 +1,8 @@
 import json
 import random
 
-total_cash = 0
+initial_cash = 309251
+total_cash = initial_cash  # Start with the initial cash
 
 with open("freeplay_data.json") as f:
     freeplay_data = json.load(f)
@@ -58,6 +59,7 @@ def get_best_round_gen(round_num):
     possible_groups = get_groups_that_can_gen_on_round(freeplay_data, round_num)
     selected_groups = []
     bad_groups = []
+    round_cash = 0  # Track cash for this round only
 
     for group in possible_groups:
         group_score = group["score"]
@@ -68,13 +70,15 @@ def get_best_round_gen(round_num):
         if group["score"] <= 2:
             selected_groups.append(group)
             current_budget += group_score
-            total_cash += get_group_cash(group)
+            group_cash = get_group_cash(group)
+            round_cash += group_cash
         elif group["bloon"] in ["Bad", "BadFortified"]:
             bad_groups.append(group)
         else:
             selected_groups.append(group)
             current_budget += group_score
-            total_cash += get_group_cash(group)
+            group_cash = get_group_cash(group)
+            round_cash += group_cash
 
     if current_budget < min_budget:
         for group in bad_groups:
@@ -85,35 +89,83 @@ def get_best_round_gen(round_num):
 
             selected_groups.append(group)
             current_budget += group_score
-            total_cash += get_group_cash(group)
+            group_cash = get_group_cash(group)
+            round_cash += group_cash
 
             if current_budget >= min_budget:
                 break
 
+    total_cash += round_cash  # Add this round's cash to total
     return selected_groups
 
 def generate_csharp(round_num, groups):
     random.shuffle(groups)
     
     time = 0
-    csharp_code = f"        case {round_num - 1}:\n            roundModel.ClearBloonGroups();\n"
+    csharp_code = f"            case {round_num - 1}:\n                roundModel.ClearBloonGroups();\n"
     for group in groups:
-        csharp_code += f'            roundModel.AddBloonGroup("{group["bloon"]}", {group["count"]}, {time}, {time + group["end"]}); // {group["name"]}\n'
+        csharp_code += f'                roundModel.AddBloonGroup("{group["bloon"]}", {group["count"]}, {time}, {time + group["end"]}); // {group["name"]}\n'
         time += group["end"]
-    csharp_code += "    break;\n"
+    csharp_code += "                break;\n"
     return csharp_code
 
-csharp_output = "public override void ModifyRoundModels(RoundModel roundModel, int round)\n{\n    base.ModifyRoundModels(roundModel, round);\n\n    switch (round)\n    {\n"
+# Start of the file with all the necessary imports and class definition
+file_header = """using MelonLoader;
+using BTD_Mod_Helper;
+using LuckyRounds;
+using Il2CppAssets.Scripts.Models;
+using Il2CppAssets.Scripts.Data;
+using BTD_Mod_Helper.Api.Bloons;
+using BTD_Mod_Helper.Api.Enums;
+using Il2CppAssets.Scripts.Models.Rounds;
+using BTD_Mod_Helper.Extensions;
+
+[assembly: MelonInfo(typeof(LuckyRounds.LuckyRounds), ModHelperData.Name, ModHelperData.Version, ModHelperData.RepoOwner)]
+[assembly: MelonGame("Ninja Kiwi", "BloonsTD6")]
+
+namespace LuckyRounds;
+
+public class LuckyRoundSet : ModRoundSet
+{
+    public override string BaseRoundSet => RoundSetType.Default;
+    public override int DefinedRounds => 1000;
+    public override string DisplayName => "Lucky Rounds";
+    public override string Icon => VanillaSprites.Alchemist050;
+
+    public override void ModifyRoundModels(RoundModel roundModel, int round)
+    {
+        base.ModifyRoundModels(roundModel, round);
+
+        switch (round)
+        {
+"""
+
+# End of the file with proper closing brackets
+file_footer = """        }
+    }
+}
+"""
+
+csharp_output = file_header
+
+# Dictionary to store cash for each round
+cash_by_round = {}
 
 for round_num in range(141, 1001):
     groups = get_best_round_gen(round_num)
-    # print(f"round: {round_num} | total cash: {total_cash}")
+    cash_by_round[str(round_num)] = round(total_cash, 2)  # Store total cash after this round
     csharp_output += generate_csharp(round_num, groups)
 
-csharp_output += "    }\n}"
+csharp_output += file_footer
 
 with open("LuckyRoundSet.cs", "w") as f:
     f.write(csharp_output)
 
+# Write the cash.json file
+with open("cash.json", "w") as f:
+    json.dump(cash_by_round, f, indent=2)
+
 print("C# round generation complete!")
-print(f"total cash: {total_cash}")
+print(f"Total cash: {total_cash}")
+print("Cash by round data written to cash.json")
+print("Complete LuckyRoundSet.cs file generated")
