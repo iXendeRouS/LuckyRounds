@@ -8,4 +8,6 @@ LuckyRounds
 
 Replaces randomised freeplay with the best theoretically possible round generation optimised for cash earned and least BADs.
 
+DISCLAMER: this might be slightly outdated because apparently there was an update to freeplay generation but idk what happened so yeah.
+
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
