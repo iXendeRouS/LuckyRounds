@@ -150,10 +150,31 @@ csharp_output = file_header
 
 # Dictionary to store cash for each round
 cash_by_round = {}
+# Dictionary to store bloon groups for each round
+rounds_data = {}
 
 for round_num in range(141, 1001):
     groups = get_best_round_gen(round_num)
     cash_by_round[str(round_num)] = round(total_cash, 2)  # Store total cash after this round
+    
+    # Create round data entry
+    round_groups = []
+    random.shuffle(groups)  # Shuffle groups to match the C# output
+    time = 0
+    
+    for group in groups:
+        round_group = {
+            "bloon": group["bloon"],
+            "count": group["count"],
+            "startTime": time,
+            "endTime": time + group["end"],
+            "name": group["name"]
+        }
+        round_groups.append(round_group)
+        time += group["end"]
+    
+    rounds_data[str(round_num)] = round_groups
+    
     csharp_output += generate_csharp(round_num, groups)
 
 csharp_output += file_footer
@@ -165,7 +186,12 @@ with open("LuckyRoundSet.cs", "w") as f:
 with open("cash.json", "w") as f:
     json.dump(cash_by_round, f, indent=2)
 
+# Write the rounds.json file
+with open("rounds.json", "w") as f:
+    json.dump(rounds_data, f, indent=2)
+
 print("C# round generation complete!")
 print(f"Total cash: {total_cash}")
 print("Cash by round data written to cash.json")
+print("Round bloon data written to rounds.json")
 print("Complete LuckyRoundSet.cs file generated")
